@@ -1,0 +1,16 @@
+{
+    "name": "chprof/hexlet-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Chprof\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "credo-creative-studio-study",
+            "email": "credo.creative.creative.study@gmail.com"
+        }
+    ],
+    "require": {}
+}
